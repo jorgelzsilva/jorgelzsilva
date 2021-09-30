@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorgelzsilva
-- 👀 I’m interested in Data Cience, Data Analysis and Python
+- 👀 I’m interested in Data Science, Data Analysis and Python
 - 🌱 I’m currently learning Python
 
 <!---
